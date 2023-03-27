@@ -1,0 +1,5 @@
+<html>
+<head>
+<title>фоллыч2</title>
+<body>
+<h1><center>Fallout 2</h1>
